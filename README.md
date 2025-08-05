@@ -1,6 +1,7 @@
 # Google Cloud : BigQuery Learn and Run
 
-![BigQuery-Learn-and-Run](_img/BigQuery Learn and Run.png)
+![BigQuery Learn and Run](./_img/BigQuery%20Learn%20and%20Run.png)
+
 
 
 
