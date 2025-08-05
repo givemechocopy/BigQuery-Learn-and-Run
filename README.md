@@ -1,6 +1,6 @@
 # Google Cloud : BigQuery Learn and Run
 
-![BigQuery Learn and Run](./_img/BigQuery%20Learn%20and%20Run.png)
+![BigQuery Learn and Run](./images/BigQuery%20Learn%20and%20Run.png)
 
 
 # 1️⃣ 단계: 데이터 준비생 (Data Beginner)
