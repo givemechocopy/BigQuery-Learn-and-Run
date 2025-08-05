@@ -9,7 +9,7 @@
 - [02. Google Cloud 기반 데이터 분석 입문 (⏱️3:00:00)](https://www.cloudskillsboost.google/course_templates/578?locale=ko)
 - [07. Derive Insights from BigQuery Data (⏱️4:45:00)](https://www.cloudskillsboost.google/course_templates/623?locale=ko)
 - [11. Boost Productivity with Gemini in BigQuery (⏱️2:30:00)](https://www.cloudskillsboost.google/course_templates/1169?locale=ko)
-    *[Lab] Use Data Canvas to Visualize and Design Queries 제외
+    - *[Lab] Use Data Canvas to Visualize and Design Queries 제외
 
 
 # 2️⃣ 단계: 데이터 러너 (Data Runner)
