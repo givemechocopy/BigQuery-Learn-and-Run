@@ -3,8 +3,6 @@
 ![BigQuery Learn and Run](./_img/BigQuery%20Learn%20and%20Run.png)
 
 
-
-
 # 1️⃣ 단계: 데이터 준비생 (Data Beginner)
 > 약 12시간 소요 예상됩니다.
 
